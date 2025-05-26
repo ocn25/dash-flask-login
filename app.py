@@ -82,4 +82,4 @@ def user_logout(input1):
         return ''
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8050, debug=True)
+    app.server.run(host='0.0.0.0', port=8050, debug=True)

@@ -17,7 +17,7 @@ layout = html.Div(
                     # method='Post',
                     children=[
                         dcc.Input(
-                            placeholder='Enter your username',
+                            placeholder='dakhl ismk',
                             n_submit=0,
                             type='text',
                             id='uname-box'
